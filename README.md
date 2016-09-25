@@ -1,2 +1,3 @@
 # hello-world
-This is the hello world repository
+My name is Mohamad Baalbaki.
+I love chicken wings.
